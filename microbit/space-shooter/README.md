@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/ce97683c-7267-4244-9a3a-0aeec79b2830
+
 # Space Shooter (BBC micro:bit)
 
 Een arcade shooter voor het 5×5 LED-scherm van de BBC micro:bit, geschreven in MakeCode Python ([`main.py`](./main.py)).

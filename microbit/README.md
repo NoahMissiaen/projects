@@ -8,6 +8,7 @@ Games geschreven in MakeCode Python voor het 5×5 LED-scherm van de BBC micro:bi
 | :--- | :--- | :--- |
 | **Tetris** | Vallende blokken stapelen, volle rijen wegspelen en je score bijhouden | [`tetris/`](./tetris/) |
 | **Space Shooter** | Vanaf de onderste rij schieten op vallende brokstukken | [`space-shooter/`](./space-shooter/) |
+| **Dino Game** | Springen over willekeurig verschijnende cactussen | [`dino-game/`](./dino-game/) |
 
 ---
 
@@ -24,5 +25,6 @@ Games written in MakeCode Python for the BBC micro:bit 5×5 LED matrix.
 | :--- | :--- | :--- |
 | **Tetris** | Stack falling blocks, clear full rows, and track your score | [`tetris/`](./tetris/) |
 | **Space Shooter** | Shoot falling debris from the bottom row | [`space-shooter/`](./space-shooter/) |
+| **Dino Game** | Jump over randomly spawning cacti | [`dino-game/`](./dino-game/) |
 
 </details>

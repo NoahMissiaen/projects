@@ -1,29 +1,25 @@
-# Micro:bit Projecten / Micro:bit Projects
+**Nederlands** | [English](./README.en.md)
 
-> **NL:** Projecten geschreven in MakeCode Python voor de BBC micro:bit.
->
-> **EN:** Projects written in MakeCode Python for the BBC micro:bit.
+# Micro:bit Projecten
 
----
+Games geschreven in MakeCode Python voor het 5×5 LED-scherm van de BBC micro:bit.
 
-## Projecten / Projects
+## Projecten
 
-### 1. Tetris ([`tetris/main.py`](./tetris/main.py))
-- **NL:** Een klassieke Tetris-kloon voor het 5×5 LED-scherm van de micro:bit. Bevat willekeurige blokjes, rij-verwijdering, scoretelling, 1-klik-per-kolom besturing en de mogelijkheid om opnieuw te beginnen na Game Over.
-  - **Besturing:** Knop A = links, Knop B = rechts, Knop A + B = draaien / opnieuw starten na Game Over.
-- **EN:** A classic Tetris clone for the micro:bit's 5×5 LED matrix. Features random shapes, line clearing, score tracking, single-press column movement, and restart after Game Over.
-  - **Controls:** Button A = left, Button B = right, Button A + B = rotate / restart after Game Over.
+### 1. Tetris — [`tetris/main.py`](./tetris/main.py)
+Klassieke Tetris-implementatie voor de micro:bit met willekeurige blokvormen, automatische rijverwijdering en scoretelling.
 
-### 2. Space Shooter ([`space-shooter/main.py`](./space-shooter/main.py))
-- **NL:** Een arcade shooter op het 5×5 LED-scherm. Beweeg onderaan naar links en rechts, schiet kogels omhoog en vernietig vallende brokstukken voordat ze de onderkant raken.
-  - **Besturing:** Knop A = links, Knop B = rechts, Knop A + B = schieten / opnieuw starten na Game Over.
-- **EN:** An arcade shooter on the 5×5 LED matrix. Move left and right along the bottom row, shoot bullets upward, and destroy falling rocks before they hit the bottom.
-  - **Controls:** Button A = left, Button B = right, Button A + B = shoot / restart after Game Over.
+- **Knop A:** 1 kolom naar links
+- **Knop B:** 1 kolom naar rechts
+- **Knop A + B:** Blok draaien (en opnieuw starten na Game Over)
 
----
+### 2. Space Shooter — [`space-shooter/main.py`](./space-shooter/main.py)
+Arcade shooter op de onderste LED-rij waarbij vallende brokstukken neergeschoten moeten worden voordat ze de onderkant bereiken.
 
-## Video's / Media
+- **Knop A:** Naar links bewegen
+- **Knop B:** Naar rechts bewegen
+- **Knop A + B:** Kogel afvuren (en opnieuw starten na Game Over)
 
-Plaats demonstratiefilmpjes in de map [`media/`](./media/).
+## Video's
 
-Place demo videos in the [`media/`](./media/) folder.
+Demonstratievideo's staan in [`media/`](./media/).

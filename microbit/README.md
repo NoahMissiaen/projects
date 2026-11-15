@@ -14,6 +14,7 @@ Games geschreven in MakeCode Python voor het 5×5 LED-scherm van de BBC micro:bi
 | **Flappy Bird** | Door 2-LED openingen vliegen met zwaartekracht | [`flappy-bird/`](./flappy-bird/) |
 | **Spaceship** | Omhoog en omlaag sturen door smalle openingen van 1 LED | [`spaceship/`](./spaceship/) |
 | **Simon Says** | Steeds langere reeksen symbolen onthouden en naspelen | [`simon-says/`](./simon-says/) |
+| **Beat Drop** | 3-baans ritmespel met achtergrondmuziek en geluidseffecten | [`beat-drop/`](./beat-drop/) |
 
 ---
 
@@ -36,5 +37,6 @@ Games written in MakeCode Python for the BBC micro:bit 5×5 LED matrix.
 | **Flappy Bird** | Fly through 2-LED pipe gaps against gravity | [`flappy-bird/`](./flappy-bird/) |
 | **Spaceship** | Steer up and down through narrow 1-LED wall gaps | [`spaceship/`](./spaceship/) |
 | **Simon Says** | Memorize and repeat growing sequences of LED symbols | [`simon-says/`](./simon-says/) |
+| **Beat Drop** | 3-lane rhythm game with background music and sound effects | [`beat-drop/`](./beat-drop/) |
 
 </details>

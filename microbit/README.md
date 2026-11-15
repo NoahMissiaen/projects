@@ -15,6 +15,7 @@ Games geschreven in MakeCode Python voor het 5×5 LED-scherm van de BBC micro:bi
 | **Spaceship** | Omhoog en omlaag sturen door smalle openingen van 1 LED | [`spaceship/`](./spaceship/) |
 | **Simon Says** | Steeds langere reeksen symbolen onthouden en naspelen | [`simon-says/`](./simon-says/) |
 | **Beat Drop** | 3-baans ritmespel met achtergrondmuziek en geluidseffecten | [`beat-drop/`](./beat-drop/) |
+| **Stacker** | Snelle torenstapelaar waarbij overhangende blokken wegvallen | [`stacker/`](./stacker/) |
 
 ---
 
@@ -38,5 +39,6 @@ Games written in MakeCode Python for the BBC micro:bit 5×5 LED matrix.
 | **Spaceship** | Steer up and down through narrow 1-LED wall gaps | [`spaceship/`](./spaceship/) |
 | **Simon Says** | Memorize and repeat growing sequences of LED symbols | [`simon-says/`](./simon-says/) |
 | **Beat Drop** | 3-lane rhythm game with background music and sound effects | [`beat-drop/`](./beat-drop/) |
+| **Stacker** | Fast tower stacker where overhanging blocks are trimmed off | [`stacker/`](./stacker/) |
 
 </details>

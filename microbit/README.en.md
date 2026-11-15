@@ -19,7 +19,3 @@ Arcade shooter along the bottom LED row where falling debris must be shot down b
 - **Button A:** Move left
 - **Button B:** Move right
 - **Button A + B:** Fire bullet (and restart after Game Over)
-
-## Videos
-
-Demo videos are located in [`media/`](./media/).

@@ -19,7 +19,3 @@ Arcade shooter op de onderste LED-rij waarbij vallende brokstukken neergeschoten
 - **Knop A:** Naar links bewegen
 - **Knop B:** Naar rechts bewegen
 - **Knop A + B:** Kogel afvuren (en opnieuw starten na Game Over)
-
-## Video's
-
-Demonstratievideo's staan in [`media/`](./media/).

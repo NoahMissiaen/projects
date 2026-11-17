@@ -16,6 +16,7 @@ Games geschreven in MakeCode Python voor het 5×5 LED-scherm van de BBC micro:bi
 | **Simon Says** | Steeds langere reeksen symbolen onthouden en naspelen | [`simon-says/`](./simon-says/) |
 | **Beat Drop** | 3-baans ritmespel met achtergrondmuziek en geluidseffecten | [`beat-drop/`](./beat-drop/) |
 | **Stacker** | Snelle torenstapelaar waarbij overhangende blokken wegvallen | [`stacker/`](./stacker/) |
+| **Coin Rush** | Muntjes pakken door te kantelen terwijl je een stuiterend balkje ontwijkt | [`coin-rush/`](./coin-rush/) |
 
 ---
 
@@ -40,5 +41,6 @@ Games written in MakeCode Python for the BBC micro:bit 5×5 LED matrix.
 | **Simon Says** | Memorize and repeat growing sequences of LED symbols | [`simon-says/`](./simon-says/) |
 | **Beat Drop** | 3-lane rhythm game with background music and sound effects | [`beat-drop/`](./beat-drop/) |
 | **Stacker** | Fast tower stacker where overhanging blocks are trimmed off | [`stacker/`](./stacker/) |
+| **Coin Rush** | Tilt to collect blinking coins while dodging a bouncing bar | [`coin-rush/`](./coin-rush/) |
 
 </details>
